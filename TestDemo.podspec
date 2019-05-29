@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'HFTestDemo'
+  s.name             = 'TestDemo'
   s.version          = '0.1.0'
   s.summary          = 'Test cocoapods'
 
