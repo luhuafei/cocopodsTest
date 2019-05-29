@@ -1,0 +1,22 @@
+{
+  "name": "TestDemo",
+  "version": "0.1.0",
+  "summary": "A short description of TestDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lhf1078988033@126.com/TestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lhf1078988033@126.com": "lhf@elinklaw.com"
+  },
+  "source": {
+    "git": "https://github.com/lhf1078988033@126.com/TestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestDemo/Classes/**/*"
+}
